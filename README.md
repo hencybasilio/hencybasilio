@@ -5,7 +5,7 @@
     Sou formado em Tecnologias de Informação e Comunicação na Universidade Católica de Moçambique - Faculdade de Direito.<br>
     Sou um entusiasta do mundo da programação, e que por isso estou aprendendo mais e dominando as seguintes tecnologias:
 </p>
-<br><br>
+<br>
 <div style="display: inline-block;">
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" />
 
