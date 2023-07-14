@@ -1,10 +1,10 @@
 
-### Olá! Eu sou Hency Basílio! 😊
+### Olá! Eu sou Hency! 😊
+<p>
+    Sou formado em Tecnologias de Informação e Comunicação na Universidade Católica de Moçambique - Faculdade de Direito<br>
+    Sou um entusiasta do mundo da programação, e que por isso estou aprendendo mais e dominando as seguintes tecnologias:
+</p>
 
-[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5525880130744&text=Ol%C3%A1!%20Tudo%20bem?)
-
-
-### Tecnologias que eu uso
 <div style="display: inline-block;">
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" />
 
@@ -16,9 +16,10 @@
 
 <img alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="BootStrap" />
 
-
 <img alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" />
 
 </div>
-
+<p>
+    Não só isso, eu apto a  dominar outras tecnologias e estou disponível para trabalhar e obter experiências.
+</p>
 <h3>"A tecnologia move o mundo!" - <a href="https://pt.wikipedia.org/wiki/Steve_Jobs" target="_blank">Steve Jobs</a></h3>
