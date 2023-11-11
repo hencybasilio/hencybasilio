@@ -2,8 +2,8 @@
 ### Olá! Eu sou Hency! 😊
 <br>
 <p>
-    Sou formado em Tecnologias de Informação e Comunicação na Universidade Católica de Moçambique - Faculdade de Direito.<br>
-    Sou um entusiasta do mundo da programação, e que por isso estou aprendendo mais e dominando as seguintes tecnologias:
+    Sou formado em Tecnologias de Informação e Comunicação.<br>
+    Sou um entusiasta do mundo da programação, eu costumo trabalhar com as seguintes tecnologias:
 </p>
 <br>
 <div style="display: inline-block;">
